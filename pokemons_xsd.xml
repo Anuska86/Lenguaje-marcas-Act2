@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pokemons xmlns="https://www.w3schools.com"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.w3schools.com pokemons.xsd">
+
+    <pokemon id="PK-0001">
+        <nombre>Vaporeon</nombre>
+        <codigo>PK-0001</codigo>
+        <foto>
+            <a href="img/agua-vaporeon.png">Vaporeon</a>
+        </foto>
+        <color>Azul</color>
+        <tipo>Agua</tipo>
+        <fuerza>4</fuerza>
+        <comentario>Vaporeon es la evolución de Evee. Es un pokemon de agua cuyas 
+        debilidades son la electricidad y las plantas.</comentario>
+    </pokemon>
+
+    <pokemon id="PK-0002">
+        <nombre>Charizard</nombre>
+        <codigo>PK-0002</codigo>
+        <foto>
+            <a href="img/fuego_charizard.jpg">Charizard</a>
+        </foto>
+        <color>Rojo</color>
+        <tipo>Fuego</tipo>
+        <fuerza>5</fuerza>
+        <comentario>Charizard es un pokemon de fuego que además vuela. Su debilidad 
+        es el agua y a veces causa incendios sin querer</comentario>
+    </pokemon>
+
+    <pokemon id="PK-0003">
+        <nombre>Glastrier</nombre>
+        <codigo>PK-0003</codigo>
+        <foto>
+            <a href="img/hielo_glastrier.jpg">Glastrier</a>
+        </foto>
+        <color>Blanco</color>
+        <tipo>Hielo</tipo>
+        <fuerza>9</fuerza>
+        <comentario>Glastrier es un pokemon de hielo con fama de ser extremadamente
+        violento. Puede llegar a pesar mas de 800kg.</comentario>
+    </pokemon>
+</pokemons>
